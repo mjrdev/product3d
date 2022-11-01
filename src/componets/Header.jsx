@@ -4,7 +4,7 @@ export default function App() {
   return (
     <header className="bg-gray-50 h-[15%] flex justify-between items-center">
       <div className="flex justify-center items-center w-full basis-1/3">
-        <AiFillApple size="50px"/>
+        <AiFillApple size="40px"/>
         <h1 className="text-black font-bold text-4xl"></h1>
       </div>
 
@@ -17,7 +17,7 @@ export default function App() {
           Github
         </ul>
         <ul className="px-4 py-2 mx-2 bg-blue-600 text-white rounded-lg hover:scale-105 transition-transform cursor-pointer">
-          LinkenIn  
+          LinkedIn  
         </ul>
       </li>
     </header>
